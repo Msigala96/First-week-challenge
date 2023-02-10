@@ -15,9 +15,10 @@ body {
     color: #ffffff;
 }
 
-#header h1 {
+#header h1  {
     display: inline-block;
     font-size: 48px;
+
 }
 
 #header h1 .seo {
@@ -32,7 +33,7 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+.header nav ul {
     list-style-type: none;
 }
 
